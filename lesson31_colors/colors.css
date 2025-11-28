@@ -1,0 +1,24 @@
+.color-1 {
+    color: cornflowerblue;
+}
+
+.color-2 {
+    color: #000000;
+}
+
+.color-3 {
+    color: #ddd
+}
+
+.color-4 {
+    color: rgb(0, 150, 88);
+    /* opacity: 0.2; */
+}
+
+.color-5 {
+    color: rgba(255, 0, 0, 0.5);
+}
+
+.css {
+    background: #66309a;
+}
