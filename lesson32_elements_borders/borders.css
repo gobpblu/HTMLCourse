@@ -1,0 +1,15 @@
+.border-1 {
+    border-width: 2px;
+    border-color: red;
+    border: 2px solid red;
+    border-style: dashed;
+    border-radius: 10px;
+}
+
+.border-2 {
+    border-bottom: 2px solid blue;
+}
+
+.border-3 {
+    color: #ddd
+}
